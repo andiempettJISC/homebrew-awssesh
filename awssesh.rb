@@ -4,8 +4,8 @@
 class Awssesh < Formula
     desc "A simple interactive CLI utility to work with AWS session manager."
     homepage "https://github.com/andiempettJISC/awssesh"
-    url "https://github.com/andiempettJISC/awssesh/archive/refs/tags/v0.0.2.tar.gz"
-    sha256 "44cccddb95a9ee5b7a329b0b9341d6da6964012e2742d80eafdcb527ad110ebc"
+    url "https://github.com/andiempettJISC/awssesh/archive/refs/tags/v0.0.3.tar.gz"
+    sha256 "bb48af593fbeec208e4c3ab7bdfd306d5dec75c892bd16c5534c96878544fb1c"
     license "https://github.com/andiempettJISC/awssesh"
   
     depends_on "jq"
